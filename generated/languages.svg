@@ -139,13 +139,13 @@ div.ellipsis {
 <ul>
 
 
-<li style="animation-delay: 0ms;">
+<!-- <li style="animation-delay: 0ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DA5B0B;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Jupyter Notebook</span>
 <span class="percent">96.24%</span>
-</li>
+</li> -->
 
 
 <li style="animation-delay: 150ms;">
