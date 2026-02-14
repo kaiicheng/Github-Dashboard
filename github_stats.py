@@ -345,7 +345,7 @@ Languages:
                     continue
                 self._repos.add(name)
                 
-                print(f"[repo] {name}")
+                # print(f"[repo] {name}")
 
                 self._stargazers += repo.get("stargazers").get("totalCount", 0)
                 self._forks += repo.get("forkCount", 0)
